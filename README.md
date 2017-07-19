@@ -5,12 +5,12 @@ actually, just for education purpose.
 
 ## How To Install
 ```bash
-npm install --save tamvan-meter
+npm install --save new-tamvan-meter
 ```
 
 ## How To Use
 ```javascript
-const tamvanMeter = require('tamvan-meter')
+const tamvanMeter = require('new-tamvan-meter')
 
 console.log(tamvanMeter())
 ```
