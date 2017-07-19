@@ -1,0 +1,26 @@
+{
+  "name": "new-tamvan-meter",
+  "version": "1.0.0",
+  "description": "A simple library for tamvan, by tamvan. How tamvan are you? ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamatamvan/new-tamvan-meter.git"
+  },
+  "keywords": [
+    "tamvan",
+    "meter",
+    "library",
+    "junk",
+    "package"
+  ],
+  "author": "Septian A Tama <tama@tamatamvan.web.id>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tamatamvan/new-tamvan-meter/issues"
+  },
+  "homepage": "https://github.com/tamatamvan/new-tamvan-meter#readme"
+}
